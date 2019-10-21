@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GoogleMapDemo</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_home_map">HomeMapActivity</string>
+    <string name="title_location_permission">Grant location permission</string>
+    <string name="text_location_permission">To map your location on google map</string>
+    <string name="ok">OK</string>
+    <string name="tvLabelLat">Lat</string>
+    <string name="tvLabelLong">long</string>
+    <string name="btnLabelAdd">ADD</string>
+    <string name="hint_label_add_name">Name</string>
+    <string name="hint_label_phone">Phone</string>
+    <string name="tv_label_select_location">SELECT LOCATION</string>
+    <string name="btn_lbl_my_location">Locat Me</string>
+</resources>
